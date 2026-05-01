@@ -1,0 +1,6 @@
+google-genai>=1.0.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+pyyaml>=6.0
+rich>=13.0.0
